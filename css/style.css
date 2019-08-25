@@ -1,0 +1,19 @@
+#movies img,
+#movie img {
+    width: 100%;
+}
+
+
+
+
+@media (min-width: 780px) {
+  #movies .col-md-3 .card {
+   
+    margin-bottom: 30px;
+}
+
+#movies .col-md-3 img {
+    height: 300px;
+}
+  
+}
